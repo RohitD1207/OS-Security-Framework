@@ -1,5 +1,4 @@
-```md
-# OS Vulnerability Simulation Framework
+### OS Vulnerability Simulation Framework
 
 This project is a modular Python-based framework designed to simulate and detect common operating system-level security vulnerabilities. It serves as a learning tool for understanding how such vulnerabilities operate and how they can be detected and mitigated in controlled environments.
 
